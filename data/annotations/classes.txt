@@ -1,0 +1,8 @@
+node_decision
+node_input_data
+node_knowledge_source
+node_knowledge_model
+arrow_information_requirement
+arrow_knowledge_requirement
+arrow_authority_requirement
+text
